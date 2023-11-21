@@ -14,8 +14,7 @@ Download the zip file from GitHub and flash arduino.h to your Arduino. Maybe you
 
 
 
-If you have any questions or if something is going wrong, place a message in the tab "Issues" and i will respond as fast as possible.
-
+If you have any questions or if something is going wrong, place a message in the tab "Issues" and i will respond ASAP.
 
 LukasH
 
